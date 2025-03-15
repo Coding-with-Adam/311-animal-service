@@ -1,4 +1,4 @@
-1. Geographical display of the complaint type / Descriptor dominated x zip code
+1. Geographical display of the complaint type / Descriptor dominated x zip code /Eszter makes it/
 2. Compare rat sitings day to day and do machine learning predictions to predict sightings.
 3. What is the average time for closing complaint and how did it change during the time?
 4. What districts with more animal issues and how did it change during the time?
